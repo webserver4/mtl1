@@ -1,4 +1,4 @@
-FROM mysterysd/wzmlx:heroku
+FROM admin44449999/mtl
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
